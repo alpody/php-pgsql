@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:	Postgresql 10 extension for php 7.1.11        
 
 License:	GPL        
-URL:		http://www.example.com/%{name}	            
+URL:		https://github.com/alpody/php-pgsql	            
 Source0:	php-pgsql-alpody-%{version}.tar.gz        
 Source1:	php-7.1.11.tar.bz2
 
